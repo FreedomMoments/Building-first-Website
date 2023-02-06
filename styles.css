@@ -1,0 +1,143 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+.container-1 {
+    background-color: #84a59d;
+    height: 1200px;
+    width: 1200px;
+    border-radius: 50px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.personal-img img {
+    display: flex;
+    margin-top: 60px;
+    height: 800px;
+    border-radius: 75px;
+}
+
+.icons {
+    margin-left: 95px;
+}
+
+.container-2 {
+    background-color: #f5cac3;
+    height: 1200px;
+    width: 1200px;
+    border-radius: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container-2 img {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    border-radius: 50px;
+    height: 750px;
+    width: 750px;
+}
+
+.container-2 fieldset {
+    width: 1000px;
+}
+
+.container-2 label {
+    justify-content: center;
+    margin: 5px;
+}
+
+.container-2 img {
+    cursor: pointer;
+}
+
+.container-3 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #f5cac3;
+    height: 1200px;
+    width: 1200px;
+    border-radius: 50px;
+}
+
+.title {
+    text-align: center;
+}
+
+.camellia  img {
+    width: 800px;
+    height: 550px;
+    border-radius: 50px;
+    margin-top: 15px;
+}
+
+.websites {
+    position: absolute;
+    top: 12%;
+}
+
+.websites li {
+    display: block;
+    margin-top: 40px;
+}
+
+.container-4 {
+    background-color: #f6bd60;
+    height: 1200px;
+    width: 1200px;
+    border-radius: 50px;
+}
+
+.container-4 img {
+    display: inline-block;
+    justify-content: center;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+}
+label {
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 10px;
+}
+
+.center-content {
+    display: inline;
+    margin-left: 100px;
+    padding: 50px;
+}
+
+.glory {
+    font-family: 'Merienda', cursive;
+    font-size: xx-large;
+}
+
+.lily {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+header {
+    display: flex;
+    padding: 30px;
+}
+
+li {
+    display: inline;
+    margin: 5px;
+}
+
+a {
+    color: #073b4c;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+nav {
+    position: relative;
+    top: 9px;
+}
